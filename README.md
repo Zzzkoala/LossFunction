@@ -8,5 +8,5 @@
 
 Специальность: Математика и компьютерные науки
 
-* LossFunc.pdf - Papers
-* FuncLoss.ipynb - Code
+* [LossFunc](https://github.com/Zzzkoala/LossFunction/blob/main/LossFunc.pdf).pdf - Papers
+* [FuncLoss](https://github.com/Zzzkoala/LossFunction/blob/main/FuncLoss.ipynb).ipynb - Code
